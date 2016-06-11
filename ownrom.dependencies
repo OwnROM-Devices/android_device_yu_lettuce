@@ -8,11 +8,11 @@
     "target_path": "kernel/cyanogen/msm8916"
   },
   {
-    "respository": "android_device_qcom_common",
+    "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common"
   },
   {
-    "respository": "proprietary_vendor_yu",
+    "repository": "proprietary_vendor_yu",
     "target_path": "vendor/yu"
   }
 ]
