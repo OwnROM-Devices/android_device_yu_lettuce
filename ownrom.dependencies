@@ -9,7 +9,9 @@
   },
   {
     "repository": "android_device_qcom_common",
-    "target_path": "device/qcom/common"
+    "target_path": "device/qcom/common",
+    "remote": "cm",
+    "revision": "cm-13.0"
   },
   {
     "repository": "proprietary_vendor_yu",
